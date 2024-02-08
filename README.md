@@ -1,0 +1,2 @@
+# EmailVerificationApp
+asp.net core
